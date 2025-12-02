@@ -1,0 +1,251 @@
+log_text,summary_text
+[Shift 1] Shift C: Compressor 1 discharge temperature increased steadily to 140°C. Vibration baseline shifted upward. Oil level slightly below minimum mark.,Compressor overheating likely due to low oil level and rising vibration. Refill oil and inspect bearings.
+[Shift 1] Conveyor tail pulley noise louder than normal. Thermal camera shows hotspot at bearing housing. Belt tension appears uneven across width.,Tail pulley bearing overheating and belt tension imbalance. Check bearing and retension belt.
+[Shift 1] AG mill feed rate fluctuating between 225–310 tph. Control system attempted corrections but load cell readings unstable.,Feed rate instability caused by noisy load cell data. Inspect load cell calibration and wiring.
+[Shift 1] Pump 4 was cavitating intermittently. Suction pressure dropped below design. Operator reported air bubbles visible in sight glass.,Pump cavitation due to air ingress on suction side. Inspect suction pipe for leaks.
+[Shift 1] Filter press cycle time increased from 28 min to 44 min. Cake moisture higher than normal. Feed slurry density inconsistent.,Long cycle time and wet cake caused by inconsistent slurry density. Stabilize upstream thickener control.
+[Shift 1] Hydraulic press ram speed reduced by 30%. Fluid temperature reached 68°C. Strainer showed significant contamination.,Press slowdown due to hydraulic fluid contamination. Replace fluid and clean strainer.
+[Shift 1] Boiler flame instability reported twice during evening shift. Fuel pressure dropped by 15%. Atomizer nozzle partially blocked.,Boiler instability due to blocked atomizer nozzle and low fuel pressure. Clean nozzle and restore pressure.
+[Shift 1] Gearbox 2 vibration at 2× running speed increased significantly. Oil splash sampling indicates metallic particles.,Possible gear tooth wear in Gearbox 2. Schedule inspection.
+[Shift 1] Cooling tower fan current increased from 16 A to 24 A. Blades show algae build-up. Water quality not controlled.,Blade fouling causing fan overload. Clean blades and improve water treatment.
+[Shift 1] Crusher discharge size larger than expected. Operator observed uneven mantle wear. CSS control acting sluggish.,Oversized product due to mantle wear and slow CSS control. Inspect mantle and calibrate CSS.
+[Shift 1] Control valve CV-32 oscillating around setpoint. Positioner shows delay. Instrument air pressure borderline low.,Valve oscillation from low air pressure and sluggish positioner. Fix air supply and tune positioner.
+[Shift 1] Stack emission opacity increased to 25%. ESP rapping system malfunctioning. Hopper ash level high.,High opacity due to ESP rapping and ash build-up. Restore rapping and empty hopper.
+[Shift 1] AG mill liner wear sensors triggered. Noise signature indicates higher impact on shell liners.,Shell liner wear progressing. Plan replacement in next shutdown.
+[Shift 1] Electrical panel temperature exceeded 60°C. Cooling fan not operational. Slight burnt smell detected.,Panel overheating from failed fan. Replace fan and check wiring.
+[Shift 1] Fuel pump tripped twice on overload. Suction filter partially blocked. Fuel viscosity high in cold conditions.,Pump overload due to filter blockage and high viscosity. Clean filter and improve preheating.
+[Shift 1] AG mill discharge pump vibrating intermittently. Shaft alignment off. Bearing housing warmer than normal.,Pump misalignment causing vibration. Realign and inspect bearings.
+[Shift 1] Water tank level transmitter showing erratic readings. Moisture detected in transmitter head.,Faulty readings due to moisture ingress. Dry or replace transmitter.
+[Shift 1] Bucket elevator jammed twice. Foreign object found in boot. Chain tension low.,Elevator jamming from debris and low chain tension. Clean boot and retension chain.
+[Shift 1] Baghouse DP rising steadily. Some bags leaking dust. Pulse cleaning ineffective.,High DP due to damaged bags and poor cleaning. Replace leaking bags.
+[Shift 1] Fan 7 axial vibration increased. Soft foot suspected. Mounting bolts unevenly tightened.,Axial vibration due to soft foot. Relevel and tighten mounting bolts.
+[Shift 1] Boiler feed pump current increased 18%. Impeller noise suggests erosion. Water quality parameters out of range.,Pump overload likely due to impeller erosion caused by poor water quality.
+[Shift 1] Shift B: Motor winding temperature trending upward. Cooling vents blocked with dust.,Motor overheating due to blocked cooling vents. Clean vents.
+[Shift 1] Conveyor 5 magnetic separator not removing metallic fines. Magnet strength appears weak.,Ineffective separation due to weak magnet. Recalibrate or replace magnet.
+[Shift 1] Steam valve slow to respond. Valve stem friction high. Packing gland too tight.,Valve sluggishness from overtight packing. Adjust packing.
+[Shift 1] Pump discharge pressure oscillating. Air entrapped in suction line. Noisy bearings reported.,Pressure oscillation due to air in suction line. Purge air and inspect bearings.
+[Shift 1] AG mill power draw reduced unexpectedly. Feed size coarser than normal. Trommel screen partially blocked.,Reduced power draw from coarse feed and blocked screen. Clean screen and stabilize feed.
+[Shift 1] Cooling water outlet temperature rising. Heat exchanger fouled with scale.,Poor cooling due to scale buildup. Clean heat exchanger.
+[Shift 1] Shift A: Lubrication pump running intermittently. Sight glass shows foamy oil.,Intermittent lubrication due to air in oil. Check seals and aeration.
+[Shift 1] Hydraulic system pressure stuck at 110 bar (below 160 bar). Relief valve leaking internally.,Low hydraulic pressure due to relief valve leakage. Repair or replace valve.
+[Shift 1] Conveyor belt tracking poorly near head pulley. Skirt rubber worn. Loading point uneven.,Poor tracking due to worn skirting and uneven loading. Replace skirting and correct loading.
+[Shift 1] Motor starter tripped twice. Contact resistance high. Contactors worn.,Starter trips caused by worn contactors. Replace contactors.
+[Shift 1] Boiler drum level controller overshooting. Level transmitter calibration drifted.,Drum level instability from transmitter drift. Recalibrate transmitter.
+[Shift 1] Stack fan vibration spiked suddenly. Coupling misalignment suspected.,Vibration spike due to misaligned coupling. Realign coupling.
+[Shift 1] Conveyor 2 tripped due to belt slip. Drive pulley lagging rubber worn.,Belt slip due to worn lagging. Replace pulley lagging.
+[Shift 1] Shift C: Steam trap leaking continuously. Condensate line temperature high.,Steam trap failed open. Replace trap.
+"[Shift 1] Mill lubrication oil filter DP rising. Oil appears dark, contaminated.",High filter DP due to dirty oil. Replace filter and oil.
+[Shift 1] Cooling fan 3 making rattling noise. Blade looseness observed.,Rattling caused by loose blades. Tighten or replace blades.
+[Shift 1] Pump 7 shaft seal leaking lightly. Drip increasing gradually.,Seal wear causing leakage. Replace shaft seal.
+[Shift 1] Turbine governor response lagging. Hydraulic actuator sluggish.,Governor lag caused by actuator sluggishness. Service actuator.
+"[Shift 1] AG mill sound level unusually low, indicating low impact. Mill likely underfilled.",Low sound suggests underfilling. Increase feed rate.
+[Shift 1] Cyclone overflow unusually dilute. Underflow density low. Apex likely worn.,Dilute overflow due to worn apex. Replace cyclone apex.
+[Shift 1] Boiler feed pump bearings hot to touch. Lubrication frequency overdue.,Bearing overheating due to missed lubrication. Lubricate immediately.
+[Shift 1] Conveyor skirt rubber generating burning smell. Excess friction with belt.,Skirt rubber rubbing belt excessively. Adjust skirt clearance.
+[Shift 1] Motor insulation resistance low during IR test. Moisture detected.,Low IR from moisture ingress. Dry motor windings.
+[Shift 1] Pump 2 delivering low flow. Impeller clogged with debris.,Low flow due to clogged impeller. Clean impeller.
+[Shift 1] Belt weigher reading unstable. Load cell mounting loose.,Unstable weight readings due to loose load cell. Tighten mounting.
+[Shift 1] Gearbox input shaft seal leaking. Oil puddle forming.,Seal failure causing oil leak. Replace shaft seal.
+[Shift 1] Stack fan current fluctuating ±12%. VFD logs show voltage imbalance.,Current fluctuation from VFD voltage imbalance. Inspect VFD power stage.
+[Shift 1] Boiler soot blowing ineffective. Flue gas temperature increased by 20°C.,Ineffective soot blowing causing high flue temperature. Inspect soot blowers.
+[Shift 1] Hydraulic cylinder retracts slowly. Internal leakage suspected. Oil temperature elevated.,Slow retract caused by internal cylinder leakage. Replace seals.
+[Shift 2] Shift C: Compressor 1 discharge temperature increased steadily to 140°C. Vibration baseline shifted upward. Oil level slightly below minimum mark.,Compressor overheating likely due to low oil level and rising vibration. Refill oil and inspect bearings.
+[Shift 2] Conveyor tail pulley noise louder than normal. Thermal camera shows hotspot at bearing housing. Belt tension appears uneven across width.,Tail pulley bearing overheating and belt tension imbalance. Check bearing and retension belt.
+[Shift 2] AG mill feed rate fluctuating between 225–310 tph. Control system attempted corrections but load cell readings unstable.,Feed rate instability caused by noisy load cell data. Inspect load cell calibration and wiring.
+[Shift 2] Pump 4 was cavitating intermittently. Suction pressure dropped below design. Operator reported air bubbles visible in sight glass.,Pump cavitation due to air ingress on suction side. Inspect suction pipe for leaks.
+[Shift 2] Filter press cycle time increased from 28 min to 44 min. Cake moisture higher than normal. Feed slurry density inconsistent.,Long cycle time and wet cake caused by inconsistent slurry density. Stabilize upstream thickener control.
+[Shift 2] Hydraulic press ram speed reduced by 30%. Fluid temperature reached 68°C. Strainer showed significant contamination.,Press slowdown due to hydraulic fluid contamination. Replace fluid and clean strainer.
+[Shift 2] Boiler flame instability reported twice during evening shift. Fuel pressure dropped by 15%. Atomizer nozzle partially blocked.,Boiler instability due to blocked atomizer nozzle and low fuel pressure. Clean nozzle and restore pressure.
+[Shift 2] Gearbox 2 vibration at 2× running speed increased significantly. Oil splash sampling indicates metallic particles.,Possible gear tooth wear in Gearbox 2. Schedule inspection.
+[Shift 2] Cooling tower fan current increased from 16 A to 24 A. Blades show algae build-up. Water quality not controlled.,Blade fouling causing fan overload. Clean blades and improve water treatment.
+[Shift 2] Crusher discharge size larger than expected. Operator observed uneven mantle wear. CSS control acting sluggish.,Oversized product due to mantle wear and slow CSS control. Inspect mantle and calibrate CSS.
+[Shift 2] Control valve CV-32 oscillating around setpoint. Positioner shows delay. Instrument air pressure borderline low.,Valve oscillation from low air pressure and sluggish positioner. Fix air supply and tune positioner.
+[Shift 2] Stack emission opacity increased to 25%. ESP rapping system malfunctioning. Hopper ash level high.,High opacity due to ESP rapping and ash build-up. Restore rapping and empty hopper.
+[Shift 2] AG mill liner wear sensors triggered. Noise signature indicates higher impact on shell liners.,Shell liner wear progressing. Plan replacement in next shutdown.
+[Shift 2] Electrical panel temperature exceeded 60°C. Cooling fan not operational. Slight burnt smell detected.,Panel overheating from failed fan. Replace fan and check wiring.
+[Shift 2] Fuel pump tripped twice on overload. Suction filter partially blocked. Fuel viscosity high in cold conditions.,Pump overload due to filter blockage and high viscosity. Clean filter and improve preheating.
+[Shift 2] AG mill discharge pump vibrating intermittently. Shaft alignment off. Bearing housing warmer than normal.,Pump misalignment causing vibration. Realign and inspect bearings.
+[Shift 2] Water tank level transmitter showing erratic readings. Moisture detected in transmitter head.,Faulty readings due to moisture ingress. Dry or replace transmitter.
+[Shift 2] Bucket elevator jammed twice. Foreign object found in boot. Chain tension low.,Elevator jamming from debris and low chain tension. Clean boot and retension chain.
+[Shift 2] Baghouse DP rising steadily. Some bags leaking dust. Pulse cleaning ineffective.,High DP due to damaged bags and poor cleaning. Replace leaking bags.
+[Shift 2] Fan 7 axial vibration increased. Soft foot suspected. Mounting bolts unevenly tightened.,Axial vibration due to soft foot. Relevel and tighten mounting bolts.
+[Shift 2] Boiler feed pump current increased 18%. Impeller noise suggests erosion. Water quality parameters out of range.,Pump overload likely due to impeller erosion caused by poor water quality.
+[Shift 2] Shift B: Motor winding temperature trending upward. Cooling vents blocked with dust.,Motor overheating due to blocked cooling vents. Clean vents.
+[Shift 2] Conveyor 5 magnetic separator not removing metallic fines. Magnet strength appears weak.,Ineffective separation due to weak magnet. Recalibrate or replace magnet.
+[Shift 2] Steam valve slow to respond. Valve stem friction high. Packing gland too tight.,Valve sluggishness from overtight packing. Adjust packing.
+[Shift 2] Pump discharge pressure oscillating. Air entrapped in suction line. Noisy bearings reported.,Pressure oscillation due to air in suction line. Purge air and inspect bearings.
+[Shift 2] AG mill power draw reduced unexpectedly. Feed size coarser than normal. Trommel screen partially blocked.,Reduced power draw from coarse feed and blocked screen. Clean screen and stabilize feed.
+[Shift 2] Cooling water outlet temperature rising. Heat exchanger fouled with scale.,Poor cooling due to scale buildup. Clean heat exchanger.
+[Shift 2] Shift A: Lubrication pump running intermittently. Sight glass shows foamy oil.,Intermittent lubrication due to air in oil. Check seals and aeration.
+[Shift 2] Hydraulic system pressure stuck at 110 bar (below 160 bar). Relief valve leaking internally.,Low hydraulic pressure due to relief valve leakage. Repair or replace valve.
+[Shift 2] Conveyor belt tracking poorly near head pulley. Skirt rubber worn. Loading point uneven.,Poor tracking due to worn skirting and uneven loading. Replace skirting and correct loading.
+[Shift 2] Motor starter tripped twice. Contact resistance high. Contactors worn.,Starter trips caused by worn contactors. Replace contactors.
+[Shift 2] Boiler drum level controller overshooting. Level transmitter calibration drifted.,Drum level instability from transmitter drift. Recalibrate transmitter.
+[Shift 2] Stack fan vibration spiked suddenly. Coupling misalignment suspected.,Vibration spike due to misaligned coupling. Realign coupling.
+[Shift 2] Conveyor 2 tripped due to belt slip. Drive pulley lagging rubber worn.,Belt slip due to worn lagging. Replace pulley lagging.
+[Shift 2] Shift C: Steam trap leaking continuously. Condensate line temperature high.,Steam trap failed open. Replace trap.
+"[Shift 2] Mill lubrication oil filter DP rising. Oil appears dark, contaminated.",High filter DP due to dirty oil. Replace filter and oil.
+[Shift 2] Cooling fan 3 making rattling noise. Blade looseness observed.,Rattling caused by loose blades. Tighten or replace blades.
+[Shift 2] Pump 7 shaft seal leaking lightly. Drip increasing gradually.,Seal wear causing leakage. Replace shaft seal.
+[Shift 2] Turbine governor response lagging. Hydraulic actuator sluggish.,Governor lag caused by actuator sluggishness. Service actuator.
+"[Shift 2] AG mill sound level unusually low, indicating low impact. Mill likely underfilled.",Low sound suggests underfilling. Increase feed rate.
+[Shift 2] Cyclone overflow unusually dilute. Underflow density low. Apex likely worn.,Dilute overflow due to worn apex. Replace cyclone apex.
+[Shift 2] Boiler feed pump bearings hot to touch. Lubrication frequency overdue.,Bearing overheating due to missed lubrication. Lubricate immediately.
+[Shift 2] Conveyor skirt rubber generating burning smell. Excess friction with belt.,Skirt rubber rubbing belt excessively. Adjust skirt clearance.
+[Shift 2] Motor insulation resistance low during IR test. Moisture detected.,Low IR from moisture ingress. Dry motor windings.
+[Shift 2] Pump 2 delivering low flow. Impeller clogged with debris.,Low flow due to clogged impeller. Clean impeller.
+[Shift 2] Belt weigher reading unstable. Load cell mounting loose.,Unstable weight readings due to loose load cell. Tighten mounting.
+[Shift 2] Gearbox input shaft seal leaking. Oil puddle forming.,Seal failure causing oil leak. Replace shaft seal.
+[Shift 2] Stack fan current fluctuating ±12%. VFD logs show voltage imbalance.,Current fluctuation from VFD voltage imbalance. Inspect VFD power stage.
+[Shift 2] Boiler soot blowing ineffective. Flue gas temperature increased by 20°C.,Ineffective soot blowing causing high flue temperature. Inspect soot blowers.
+[Shift 2] Hydraulic cylinder retracts slowly. Internal leakage suspected. Oil temperature elevated.,Slow retract caused by internal cylinder leakage. Replace seals.
+[Shift 3] Shift C: Compressor 1 discharge temperature increased steadily to 140°C. Vibration baseline shifted upward. Oil level slightly below minimum mark.,Compressor overheating likely due to low oil level and rising vibration. Refill oil and inspect bearings.
+[Shift 3] Conveyor tail pulley noise louder than normal. Thermal camera shows hotspot at bearing housing. Belt tension appears uneven across width.,Tail pulley bearing overheating and belt tension imbalance. Check bearing and retension belt.
+[Shift 3] AG mill feed rate fluctuating between 225–310 tph. Control system attempted corrections but load cell readings unstable.,Feed rate instability caused by noisy load cell data. Inspect load cell calibration and wiring.
+[Shift 3] Pump 4 was cavitating intermittently. Suction pressure dropped below design. Operator reported air bubbles visible in sight glass.,Pump cavitation due to air ingress on suction side. Inspect suction pipe for leaks.
+[Shift 3] Filter press cycle time increased from 28 min to 44 min. Cake moisture higher than normal. Feed slurry density inconsistent.,Long cycle time and wet cake caused by inconsistent slurry density. Stabilize upstream thickener control.
+[Shift 3] Hydraulic press ram speed reduced by 30%. Fluid temperature reached 68°C. Strainer showed significant contamination.,Press slowdown due to hydraulic fluid contamination. Replace fluid and clean strainer.
+[Shift 3] Boiler flame instability reported twice during evening shift. Fuel pressure dropped by 15%. Atomizer nozzle partially blocked.,Boiler instability due to blocked atomizer nozzle and low fuel pressure. Clean nozzle and restore pressure.
+[Shift 3] Gearbox 2 vibration at 2× running speed increased significantly. Oil splash sampling indicates metallic particles.,Possible gear tooth wear in Gearbox 2. Schedule inspection.
+[Shift 3] Cooling tower fan current increased from 16 A to 24 A. Blades show algae build-up. Water quality not controlled.,Blade fouling causing fan overload. Clean blades and improve water treatment.
+[Shift 3] Crusher discharge size larger than expected. Operator observed uneven mantle wear. CSS control acting sluggish.,Oversized product due to mantle wear and slow CSS control. Inspect mantle and calibrate CSS.
+[Shift 3] Control valve CV-32 oscillating around setpoint. Positioner shows delay. Instrument air pressure borderline low.,Valve oscillation from low air pressure and sluggish positioner. Fix air supply and tune positioner.
+[Shift 3] Stack emission opacity increased to 25%. ESP rapping system malfunctioning. Hopper ash level high.,High opacity due to ESP rapping and ash build-up. Restore rapping and empty hopper.
+[Shift 3] AG mill liner wear sensors triggered. Noise signature indicates higher impact on shell liners.,Shell liner wear progressing. Plan replacement in next shutdown.
+[Shift 3] Electrical panel temperature exceeded 60°C. Cooling fan not operational. Slight burnt smell detected.,Panel overheating from failed fan. Replace fan and check wiring.
+[Shift 3] Fuel pump tripped twice on overload. Suction filter partially blocked. Fuel viscosity high in cold conditions.,Pump overload due to filter blockage and high viscosity. Clean filter and improve preheating.
+[Shift 3] AG mill discharge pump vibrating intermittently. Shaft alignment off. Bearing housing warmer than normal.,Pump misalignment causing vibration. Realign and inspect bearings.
+[Shift 3] Water tank level transmitter showing erratic readings. Moisture detected in transmitter head.,Faulty readings due to moisture ingress. Dry or replace transmitter.
+[Shift 3] Bucket elevator jammed twice. Foreign object found in boot. Chain tension low.,Elevator jamming from debris and low chain tension. Clean boot and retension chain.
+[Shift 3] Baghouse DP rising steadily. Some bags leaking dust. Pulse cleaning ineffective.,High DP due to damaged bags and poor cleaning. Replace leaking bags.
+[Shift 3] Fan 7 axial vibration increased. Soft foot suspected. Mounting bolts unevenly tightened.,Axial vibration due to soft foot. Relevel and tighten mounting bolts.
+[Shift 3] Boiler feed pump current increased 18%. Impeller noise suggests erosion. Water quality parameters out of range.,Pump overload likely due to impeller erosion caused by poor water quality.
+[Shift 3] Shift B: Motor winding temperature trending upward. Cooling vents blocked with dust.,Motor overheating due to blocked cooling vents. Clean vents.
+[Shift 3] Conveyor 5 magnetic separator not removing metallic fines. Magnet strength appears weak.,Ineffective separation due to weak magnet. Recalibrate or replace magnet.
+[Shift 3] Steam valve slow to respond. Valve stem friction high. Packing gland too tight.,Valve sluggishness from overtight packing. Adjust packing.
+[Shift 3] Pump discharge pressure oscillating. Air entrapped in suction line. Noisy bearings reported.,Pressure oscillation due to air in suction line. Purge air and inspect bearings.
+[Shift 3] AG mill power draw reduced unexpectedly. Feed size coarser than normal. Trommel screen partially blocked.,Reduced power draw from coarse feed and blocked screen. Clean screen and stabilize feed.
+[Shift 3] Cooling water outlet temperature rising. Heat exchanger fouled with scale.,Poor cooling due to scale buildup. Clean heat exchanger.
+[Shift 3] Shift A: Lubrication pump running intermittently. Sight glass shows foamy oil.,Intermittent lubrication due to air in oil. Check seals and aeration.
+[Shift 3] Hydraulic system pressure stuck at 110 bar (below 160 bar). Relief valve leaking internally.,Low hydraulic pressure due to relief valve leakage. Repair or replace valve.
+[Shift 3] Conveyor belt tracking poorly near head pulley. Skirt rubber worn. Loading point uneven.,Poor tracking due to worn skirting and uneven loading. Replace skirting and correct loading.
+[Shift 3] Motor starter tripped twice. Contact resistance high. Contactors worn.,Starter trips caused by worn contactors. Replace contactors.
+[Shift 3] Boiler drum level controller overshooting. Level transmitter calibration drifted.,Drum level instability from transmitter drift. Recalibrate transmitter.
+[Shift 3] Stack fan vibration spiked suddenly. Coupling misalignment suspected.,Vibration spike due to misaligned coupling. Realign coupling.
+[Shift 3] Conveyor 2 tripped due to belt slip. Drive pulley lagging rubber worn.,Belt slip due to worn lagging. Replace pulley lagging.
+[Shift 3] Shift C: Steam trap leaking continuously. Condensate line temperature high.,Steam trap failed open. Replace trap.
+"[Shift 3] Mill lubrication oil filter DP rising. Oil appears dark, contaminated.",High filter DP due to dirty oil. Replace filter and oil.
+[Shift 3] Cooling fan 3 making rattling noise. Blade looseness observed.,Rattling caused by loose blades. Tighten or replace blades.
+[Shift 3] Pump 7 shaft seal leaking lightly. Drip increasing gradually.,Seal wear causing leakage. Replace shaft seal.
+[Shift 3] Turbine governor response lagging. Hydraulic actuator sluggish.,Governor lag caused by actuator sluggishness. Service actuator.
+"[Shift 3] AG mill sound level unusually low, indicating low impact. Mill likely underfilled.",Low sound suggests underfilling. Increase feed rate.
+[Shift 3] Cyclone overflow unusually dilute. Underflow density low. Apex likely worn.,Dilute overflow due to worn apex. Replace cyclone apex.
+[Shift 3] Boiler feed pump bearings hot to touch. Lubrication frequency overdue.,Bearing overheating due to missed lubrication. Lubricate immediately.
+[Shift 3] Conveyor skirt rubber generating burning smell. Excess friction with belt.,Skirt rubber rubbing belt excessively. Adjust skirt clearance.
+[Shift 3] Motor insulation resistance low during IR test. Moisture detected.,Low IR from moisture ingress. Dry motor windings.
+[Shift 3] Pump 2 delivering low flow. Impeller clogged with debris.,Low flow due to clogged impeller. Clean impeller.
+[Shift 3] Belt weigher reading unstable. Load cell mounting loose.,Unstable weight readings due to loose load cell. Tighten mounting.
+[Shift 3] Gearbox input shaft seal leaking. Oil puddle forming.,Seal failure causing oil leak. Replace shaft seal.
+[Shift 3] Stack fan current fluctuating ±12%. VFD logs show voltage imbalance.,Current fluctuation from VFD voltage imbalance. Inspect VFD power stage.
+[Shift 3] Boiler soot blowing ineffective. Flue gas temperature increased by 20°C.,Ineffective soot blowing causing high flue temperature. Inspect soot blowers.
+[Shift 3] Hydraulic cylinder retracts slowly. Internal leakage suspected. Oil temperature elevated.,Slow retract caused by internal cylinder leakage. Replace seals.
+[Shift 4] Shift C: Compressor 1 discharge temperature increased steadily to 140°C. Vibration baseline shifted upward. Oil level slightly below minimum mark.,Compressor overheating likely due to low oil level and rising vibration. Refill oil and inspect bearings.
+[Shift 4] Conveyor tail pulley noise louder than normal. Thermal camera shows hotspot at bearing housing. Belt tension appears uneven across width.,Tail pulley bearing overheating and belt tension imbalance. Check bearing and retension belt.
+[Shift 4] AG mill feed rate fluctuating between 225–310 tph. Control system attempted corrections but load cell readings unstable.,Feed rate instability caused by noisy load cell data. Inspect load cell calibration and wiring.
+[Shift 4] Pump 4 was cavitating intermittently. Suction pressure dropped below design. Operator reported air bubbles visible in sight glass.,Pump cavitation due to air ingress on suction side. Inspect suction pipe for leaks.
+[Shift 4] Filter press cycle time increased from 28 min to 44 min. Cake moisture higher than normal. Feed slurry density inconsistent.,Long cycle time and wet cake caused by inconsistent slurry density. Stabilize upstream thickener control.
+[Shift 4] Hydraulic press ram speed reduced by 30%. Fluid temperature reached 68°C. Strainer showed significant contamination.,Press slowdown due to hydraulic fluid contamination. Replace fluid and clean strainer.
+[Shift 4] Boiler flame instability reported twice during evening shift. Fuel pressure dropped by 15%. Atomizer nozzle partially blocked.,Boiler instability due to blocked atomizer nozzle and low fuel pressure. Clean nozzle and restore pressure.
+[Shift 4] Gearbox 2 vibration at 2× running speed increased significantly. Oil splash sampling indicates metallic particles.,Possible gear tooth wear in Gearbox 2. Schedule inspection.
+[Shift 4] Cooling tower fan current increased from 16 A to 24 A. Blades show algae build-up. Water quality not controlled.,Blade fouling causing fan overload. Clean blades and improve water treatment.
+[Shift 4] Crusher discharge size larger than expected. Operator observed uneven mantle wear. CSS control acting sluggish.,Oversized product due to mantle wear and slow CSS control. Inspect mantle and calibrate CSS.
+[Shift 4] Control valve CV-32 oscillating around setpoint. Positioner shows delay. Instrument air pressure borderline low.,Valve oscillation from low air pressure and sluggish positioner. Fix air supply and tune positioner.
+[Shift 4] Stack emission opacity increased to 25%. ESP rapping system malfunctioning. Hopper ash level high.,High opacity due to ESP rapping and ash build-up. Restore rapping and empty hopper.
+[Shift 4] AG mill liner wear sensors triggered. Noise signature indicates higher impact on shell liners.,Shell liner wear progressing. Plan replacement in next shutdown.
+[Shift 4] Electrical panel temperature exceeded 60°C. Cooling fan not operational. Slight burnt smell detected.,Panel overheating from failed fan. Replace fan and check wiring.
+[Shift 4] Fuel pump tripped twice on overload. Suction filter partially blocked. Fuel viscosity high in cold conditions.,Pump overload due to filter blockage and high viscosity. Clean filter and improve preheating.
+[Shift 4] AG mill discharge pump vibrating intermittently. Shaft alignment off. Bearing housing warmer than normal.,Pump misalignment causing vibration. Realign and inspect bearings.
+[Shift 4] Water tank level transmitter showing erratic readings. Moisture detected in transmitter head.,Faulty readings due to moisture ingress. Dry or replace transmitter.
+[Shift 4] Bucket elevator jammed twice. Foreign object found in boot. Chain tension low.,Elevator jamming from debris and low chain tension. Clean boot and retension chain.
+[Shift 4] Baghouse DP rising steadily. Some bags leaking dust. Pulse cleaning ineffective.,High DP due to damaged bags and poor cleaning. Replace leaking bags.
+[Shift 4] Fan 7 axial vibration increased. Soft foot suspected. Mounting bolts unevenly tightened.,Axial vibration due to soft foot. Relevel and tighten mounting bolts.
+[Shift 4] Boiler feed pump current increased 18%. Impeller noise suggests erosion. Water quality parameters out of range.,Pump overload likely due to impeller erosion caused by poor water quality.
+[Shift 4] Shift B: Motor winding temperature trending upward. Cooling vents blocked with dust.,Motor overheating due to blocked cooling vents. Clean vents.
+[Shift 4] Conveyor 5 magnetic separator not removing metallic fines. Magnet strength appears weak.,Ineffective separation due to weak magnet. Recalibrate or replace magnet.
+[Shift 4] Steam valve slow to respond. Valve stem friction high. Packing gland too tight.,Valve sluggishness from overtight packing. Adjust packing.
+[Shift 4] Pump discharge pressure oscillating. Air entrapped in suction line. Noisy bearings reported.,Pressure oscillation due to air in suction line. Purge air and inspect bearings.
+[Shift 4] AG mill power draw reduced unexpectedly. Feed size coarser than normal. Trommel screen partially blocked.,Reduced power draw from coarse feed and blocked screen. Clean screen and stabilize feed.
+[Shift 4] Cooling water outlet temperature rising. Heat exchanger fouled with scale.,Poor cooling due to scale buildup. Clean heat exchanger.
+[Shift 4] Shift A: Lubrication pump running intermittently. Sight glass shows foamy oil.,Intermittent lubrication due to air in oil. Check seals and aeration.
+[Shift 4] Hydraulic system pressure stuck at 110 bar (below 160 bar). Relief valve leaking internally.,Low hydraulic pressure due to relief valve leakage. Repair or replace valve.
+[Shift 4] Conveyor belt tracking poorly near head pulley. Skirt rubber worn. Loading point uneven.,Poor tracking due to worn skirting and uneven loading. Replace skirting and correct loading.
+[Shift 4] Motor starter tripped twice. Contact resistance high. Contactors worn.,Starter trips caused by worn contactors. Replace contactors.
+[Shift 4] Boiler drum level controller overshooting. Level transmitter calibration drifted.,Drum level instability from transmitter drift. Recalibrate transmitter.
+[Shift 4] Stack fan vibration spiked suddenly. Coupling misalignment suspected.,Vibration spike due to misaligned coupling. Realign coupling.
+[Shift 4] Conveyor 2 tripped due to belt slip. Drive pulley lagging rubber worn.,Belt slip due to worn lagging. Replace pulley lagging.
+[Shift 4] Shift C: Steam trap leaking continuously. Condensate line temperature high.,Steam trap failed open. Replace trap.
+"[Shift 4] Mill lubrication oil filter DP rising. Oil appears dark, contaminated.",High filter DP due to dirty oil. Replace filter and oil.
+[Shift 4] Cooling fan 3 making rattling noise. Blade looseness observed.,Rattling caused by loose blades. Tighten or replace blades.
+[Shift 4] Pump 7 shaft seal leaking lightly. Drip increasing gradually.,Seal wear causing leakage. Replace shaft seal.
+[Shift 4] Turbine governor response lagging. Hydraulic actuator sluggish.,Governor lag caused by actuator sluggishness. Service actuator.
+"[Shift 4] AG mill sound level unusually low, indicating low impact. Mill likely underfilled.",Low sound suggests underfilling. Increase feed rate.
+[Shift 4] Cyclone overflow unusually dilute. Underflow density low. Apex likely worn.,Dilute overflow due to worn apex. Replace cyclone apex.
+[Shift 4] Boiler feed pump bearings hot to touch. Lubrication frequency overdue.,Bearing overheating due to missed lubrication. Lubricate immediately.
+[Shift 4] Conveyor skirt rubber generating burning smell. Excess friction with belt.,Skirt rubber rubbing belt excessively. Adjust skirt clearance.
+[Shift 4] Motor insulation resistance low during IR test. Moisture detected.,Low IR from moisture ingress. Dry motor windings.
+[Shift 4] Pump 2 delivering low flow. Impeller clogged with debris.,Low flow due to clogged impeller. Clean impeller.
+[Shift 4] Belt weigher reading unstable. Load cell mounting loose.,Unstable weight readings due to loose load cell. Tighten mounting.
+[Shift 4] Gearbox input shaft seal leaking. Oil puddle forming.,Seal failure causing oil leak. Replace shaft seal.
+[Shift 4] Stack fan current fluctuating ±12%. VFD logs show voltage imbalance.,Current fluctuation from VFD voltage imbalance. Inspect VFD power stage.
+[Shift 4] Boiler soot blowing ineffective. Flue gas temperature increased by 20°C.,Ineffective soot blowing causing high flue temperature. Inspect soot blowers.
+[Shift 4] Hydraulic cylinder retracts slowly. Internal leakage suspected. Oil temperature elevated.,Slow retract caused by internal cylinder leakage. Replace seals.
+[Shift 5] Shift C: Compressor 1 discharge temperature increased steadily to 140°C. Vibration baseline shifted upward. Oil level slightly below minimum mark.,Compressor overheating likely due to low oil level and rising vibration. Refill oil and inspect bearings.
+[Shift 5] Conveyor tail pulley noise louder than normal. Thermal camera shows hotspot at bearing housing. Belt tension appears uneven across width.,Tail pulley bearing overheating and belt tension imbalance. Check bearing and retension belt.
+[Shift 5] AG mill feed rate fluctuating between 225–310 tph. Control system attempted corrections but load cell readings unstable.,Feed rate instability caused by noisy load cell data. Inspect load cell calibration and wiring.
+[Shift 5] Pump 4 was cavitating intermittently. Suction pressure dropped below design. Operator reported air bubbles visible in sight glass.,Pump cavitation due to air ingress on suction side. Inspect suction pipe for leaks.
+[Shift 5] Filter press cycle time increased from 28 min to 44 min. Cake moisture higher than normal. Feed slurry density inconsistent.,Long cycle time and wet cake caused by inconsistent slurry density. Stabilize upstream thickener control.
+[Shift 5] Hydraulic press ram speed reduced by 30%. Fluid temperature reached 68°C. Strainer showed significant contamination.,Press slowdown due to hydraulic fluid contamination. Replace fluid and clean strainer.
+[Shift 5] Boiler flame instability reported twice during evening shift. Fuel pressure dropped by 15%. Atomizer nozzle partially blocked.,Boiler instability due to blocked atomizer nozzle and low fuel pressure. Clean nozzle and restore pressure.
+[Shift 5] Gearbox 2 vibration at 2× running speed increased significantly. Oil splash sampling indicates metallic particles.,Possible gear tooth wear in Gearbox 2. Schedule inspection.
+[Shift 5] Cooling tower fan current increased from 16 A to 24 A. Blades show algae build-up. Water quality not controlled.,Blade fouling causing fan overload. Clean blades and improve water treatment.
+[Shift 5] Crusher discharge size larger than expected. Operator observed uneven mantle wear. CSS control acting sluggish.,Oversized product due to mantle wear and slow CSS control. Inspect mantle and calibrate CSS.
+[Shift 5] Control valve CV-32 oscillating around setpoint. Positioner shows delay. Instrument air pressure borderline low.,Valve oscillation from low air pressure and sluggish positioner. Fix air supply and tune positioner.
+[Shift 5] Stack emission opacity increased to 25%. ESP rapping system malfunctioning. Hopper ash level high.,High opacity due to ESP rapping and ash build-up. Restore rapping and empty hopper.
+[Shift 5] AG mill liner wear sensors triggered. Noise signature indicates higher impact on shell liners.,Shell liner wear progressing. Plan replacement in next shutdown.
+[Shift 5] Electrical panel temperature exceeded 60°C. Cooling fan not operational. Slight burnt smell detected.,Panel overheating from failed fan. Replace fan and check wiring.
+[Shift 5] Fuel pump tripped twice on overload. Suction filter partially blocked. Fuel viscosity high in cold conditions.,Pump overload due to filter blockage and high viscosity. Clean filter and improve preheating.
+[Shift 5] AG mill discharge pump vibrating intermittently. Shaft alignment off. Bearing housing warmer than normal.,Pump misalignment causing vibration. Realign and inspect bearings.
+[Shift 5] Water tank level transmitter showing erratic readings. Moisture detected in transmitter head.,Faulty readings due to moisture ingress. Dry or replace transmitter.
+[Shift 5] Bucket elevator jammed twice. Foreign object found in boot. Chain tension low.,Elevator jamming from debris and low chain tension. Clean boot and retension chain.
+[Shift 5] Baghouse DP rising steadily. Some bags leaking dust. Pulse cleaning ineffective.,High DP due to damaged bags and poor cleaning. Replace leaking bags.
+[Shift 5] Fan 7 axial vibration increased. Soft foot suspected. Mounting bolts unevenly tightened.,Axial vibration due to soft foot. Relevel and tighten mounting bolts.
+[Shift 5] Boiler feed pump current increased 18%. Impeller noise suggests erosion. Water quality parameters out of range.,Pump overload likely due to impeller erosion caused by poor water quality.
+[Shift 5] Shift B: Motor winding temperature trending upward. Cooling vents blocked with dust.,Motor overheating due to blocked cooling vents. Clean vents.
+[Shift 5] Conveyor 5 magnetic separator not removing metallic fines. Magnet strength appears weak.,Ineffective separation due to weak magnet. Recalibrate or replace magnet.
+[Shift 5] Steam valve slow to respond. Valve stem friction high. Packing gland too tight.,Valve sluggishness from overtight packing. Adjust packing.
+[Shift 5] Pump discharge pressure oscillating. Air entrapped in suction line. Noisy bearings reported.,Pressure oscillation due to air in suction line. Purge air and inspect bearings.
+[Shift 5] AG mill power draw reduced unexpectedly. Feed size coarser than normal. Trommel screen partially blocked.,Reduced power draw from coarse feed and blocked screen. Clean screen and stabilize feed.
+[Shift 5] Cooling water outlet temperature rising. Heat exchanger fouled with scale.,Poor cooling due to scale buildup. Clean heat exchanger.
+[Shift 5] Shift A: Lubrication pump running intermittently. Sight glass shows foamy oil.,Intermittent lubrication due to air in oil. Check seals and aeration.
+[Shift 5] Hydraulic system pressure stuck at 110 bar (below 160 bar). Relief valve leaking internally.,Low hydraulic pressure due to relief valve leakage. Repair or replace valve.
+[Shift 5] Conveyor belt tracking poorly near head pulley. Skirt rubber worn. Loading point uneven.,Poor tracking due to worn skirting and uneven loading. Replace skirting and correct loading.
+[Shift 5] Motor starter tripped twice. Contact resistance high. Contactors worn.,Starter trips caused by worn contactors. Replace contactors.
+[Shift 5] Boiler drum level controller overshooting. Level transmitter calibration drifted.,Drum level instability from transmitter drift. Recalibrate transmitter.
+[Shift 5] Stack fan vibration spiked suddenly. Coupling misalignment suspected.,Vibration spike due to misaligned coupling. Realign coupling.
+[Shift 5] Conveyor 2 tripped due to belt slip. Drive pulley lagging rubber worn.,Belt slip due to worn lagging. Replace pulley lagging.
+[Shift 5] Shift C: Steam trap leaking continuously. Condensate line temperature high.,Steam trap failed open. Replace trap.
+"[Shift 5] Mill lubrication oil filter DP rising. Oil appears dark, contaminated.",High filter DP due to dirty oil. Replace filter and oil.
+[Shift 5] Cooling fan 3 making rattling noise. Blade looseness observed.,Rattling caused by loose blades. Tighten or replace blades.
+[Shift 5] Pump 7 shaft seal leaking lightly. Drip increasing gradually.,Seal wear causing leakage. Replace shaft seal.
+[Shift 5] Turbine governor response lagging. Hydraulic actuator sluggish.,Governor lag caused by actuator sluggishness. Service actuator.
+"[Shift 5] AG mill sound level unusually low, indicating low impact. Mill likely underfilled.",Low sound suggests underfilling. Increase feed rate.
+[Shift 5] Cyclone overflow unusually dilute. Underflow density low. Apex likely worn.,Dilute overflow due to worn apex. Replace cyclone apex.
+[Shift 5] Boiler feed pump bearings hot to touch. Lubrication frequency overdue.,Bearing overheating due to missed lubrication. Lubricate immediately.
+[Shift 5] Conveyor skirt rubber generating burning smell. Excess friction with belt.,Skirt rubber rubbing belt excessively. Adjust skirt clearance.
+[Shift 5] Motor insulation resistance low during IR test. Moisture detected.,Low IR from moisture ingress. Dry motor windings.
+[Shift 5] Pump 2 delivering low flow. Impeller clogged with debris.,Low flow due to clogged impeller. Clean impeller.
+[Shift 5] Belt weigher reading unstable. Load cell mounting loose.,Unstable weight readings due to loose load cell. Tighten mounting.
+[Shift 5] Gearbox input shaft seal leaking. Oil puddle forming.,Seal failure causing oil leak. Replace shaft seal.
+[Shift 5] Stack fan current fluctuating ±12%. VFD logs show voltage imbalance.,Current fluctuation from VFD voltage imbalance. Inspect VFD power stage.
+[Shift 5] Boiler soot blowing ineffective. Flue gas temperature increased by 20°C.,Ineffective soot blowing causing high flue temperature. Inspect soot blowers.
+[Shift 5] Hydraulic cylinder retracts slowly. Internal leakage suspected. Oil temperature elevated.,Slow retract caused by internal cylinder leakage. Replace seals.
